@@ -7,7 +7,7 @@ Popular emotion-datasets
     - https://sail.usc.edu/iemocap/
     - https://github.com/declare-lab/MELD
 - Rearranged raw datasets [[emotion_data.zip]()] 
-- And, `src/preprocess.py` easily convert the raw dataset as a dataframe.
+- And, `src/preprocess.py` easily converts the raw dataset as a dataframe.
     - dataframe that contains audio and text [[data.zip]()]
 ---
 
