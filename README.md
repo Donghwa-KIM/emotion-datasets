@@ -1,4 +1,4 @@
-# emotion-datasets
+# Emotion-datasets
 Popular emotion-datasets
 
 - We give the most popular emotion datasets as rawdata format to use audio array or text string
