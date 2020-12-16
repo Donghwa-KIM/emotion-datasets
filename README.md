@@ -8,7 +8,7 @@ Popular emotion-datasets
     - https://github.com/declare-lab/MELD
 - Rearranged raw datasets [[emotion_data.zip]()] 
 - And, `src/preprocess.py` easily converts the raw dataset as a dataframe.
-    - dataframe.pkl was saved in [[data.zip]()]
+    - `dataframe.pkl` was saved in [[data.zip]()]
 ---
 
 - Implementation
