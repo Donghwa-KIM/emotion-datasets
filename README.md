@@ -6,8 +6,8 @@ Popular emotion-datasets
     - https://github.com/A2Zadeh/CMU-MultimodalSDK
     - https://sail.usc.edu/iemocap/
     - https://github.com/declare-lab/MELD
-- Rearranged raw dataset [[emotion_data.zip]()] 
-- And, `src/preprocess.py` easily provides a raw dataset as dataframe.
+- Rearranged raw datasets [[emotion_data.zip]()] 
+- And, `src/preprocess.py` easily provides the raw dataset as dataframe.
     - dataframe that contains audio and text [[data.zip]()]
 ---
 
