@@ -1,4 +1,4 @@
-# Emotion datasets
+# Datasets for Emotion classification using audio and text
 Popular emotion-datasets
 
 - We give the most popular emotion datasets as rawdata format to use audio array or text string
