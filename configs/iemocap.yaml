@@ -1,0 +1,7 @@
+
+#DATASET
+DATA_ROOT: '/media/donghwa/새 볼륨/emotion_data'
+DATA_FILE: 'IEMOCAP_full_release'
+LABEL_FOLDER: 'dialog/EmoEvaluation/Categorical'
+AUDIO_FOLDER: 'sentences/wav'
+TEXT_FOLDER: 'dialog/transcriptions'    

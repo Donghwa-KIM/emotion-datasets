@@ -1,0 +1,6 @@
+
+#DATASET
+DATA_ROOT: '/media/donghwa/새 볼륨/emotion_data'
+LABEL_FOLDER: 'label'
+DATA_FILE: 'MELD_Raw'
+

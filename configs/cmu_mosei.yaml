@@ -1,0 +1,9 @@
+
+#DATASET
+DATA_ROOT: '/media/donghwa/새 볼륨/emotion_data'
+DATA_FILE: 'CMU_MOSEI'
+LABEL_FILE: 'CMU_MOSEI_Labels.csd'
+AUDIO_FOLDER: 'WAV_16000'
+META_FOLDER: 'Metadata'
+COMB_FOLDER: 'Combined'    
+
