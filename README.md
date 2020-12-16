@@ -9,7 +9,7 @@ Popular emotion-datasets
 - Rearranged raw datasets [[emotion_data.zip]()] 
 - And, `src/preprocess.py` easily converts the raw dataset as a dataframe.pkl.
     - `dataframe.pkl`s were saved in [[data.zip]()]
-- Non-matched row was removed, for example, negative time interval or empty audio files ...
+- Non-existent row was removed, for example, negative time interval or empty audio files ...
 ---
 
 - Implementation
