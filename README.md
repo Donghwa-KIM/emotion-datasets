@@ -3,9 +3,12 @@ Popular emotion-datasets
 
 - We give the most popular emotion datasets as rawdata format to use audio array or text string
 - The raw dataset was collected from public site
-- Rearranged raw dataset [[link]()] 
+    - https://github.com/A2Zadeh/CMU-MultimodalSDK
+    - https://sail.usc.edu/iemocap/
+    - https://github.com/declare-lab/MELD
+- Rearranged raw dataset [[emotion_data.zip]()] 
 - And, `src/preprocess.py` easily provides a raw dataset as dataframe.
-    - dataframe that contains audio and text [[link]()]
+    - dataframe that contains audio and text [[data.zip]()]
 ---
 
 - Implementation
