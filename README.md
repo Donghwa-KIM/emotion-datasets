@@ -25,7 +25,7 @@ python ./src/preprocess.py --config_file ./configs/cmu_mosei.yaml
 ```
 
 
-| wav_id |       start |     end | sentiment |    happy |      sad |    anger | surprise | disgust | fear |    split |  text |                                             audio |                                             audio |
+|index| wav_id |       start |     end | sentiment |    happy |      sad |    anger | surprise | disgust | fear |    split |  text |                                             audio |                                             audio |
 |-------:|------------:|--------:|----------:|---------:|---------:|---------:|---------:|--------:|-----:|---------:|------:|--------------------------------------------------:|--------------------------------------------------:|
 |      0 | --qXJuDtHPw |  23.199 |    30.325 | 1.000000 | 0.666667 | 0.000000 |      0.0 |     0.0 |  0.0 | 0.000000 | valid | I see that a writer is somebody who has an inc... | [0.025634766, 0.03857422, 0.051208496, 0.04162... |
 |      1 | -3g5yACwYnA |  82.753 |   100.555 | 1.000000 | 0.666667 | 0.666667 |      0.0 |     0.0 |  0.0 | 0.666667 | train | Key is part of the people that we use to solve... | [0.00033569336, -0.0002746582, 0.0005493164, 0... |
